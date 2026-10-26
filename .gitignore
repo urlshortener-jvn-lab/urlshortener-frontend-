@@ -1,0 +1,14 @@
+# Node / Vite artifacts
+node_modules/
+dist/
+build/
+.vite/
+*.tsbuildinfo
+npm-debug.log*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+.npm/

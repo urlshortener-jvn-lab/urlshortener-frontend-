@@ -1,0 +1,22 @@
+# Dependencies
+node_modules
+npm-debug.log
+
+# Build output
+dist
+build
+.vite
+
+# IDE & OS
+.vscode
+.idea
+.DS_Store
+Thumbs.db
+
+# Git & Env
+.git
+.gitignore
+.env
+.env.*
+*.log
+README.md
